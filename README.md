@@ -120,17 +120,9 @@ These scores suggest moderate satisfaction among data professionals.
 
 ---
 
-## 📋 Future Improvements
-- Add trend analysis by year (if longitudinal data is available).  
-- Include gender or education-level breakdowns.  
-- Integrate salary vs. experience correlation visualization.  
-- Add interactivity for deeper filtering (region, role, experience).
-
----
-
 ## 👤 Author
-**Created by:** [Your Name]  
-**Purpose:** Academic / Analytical Project Visualization  
+**Created by:** [Shruti Khule]  
+**Purpose:**  Analytical Project Visualization  
 **Tool Used:** Power BI  
 
 ---
